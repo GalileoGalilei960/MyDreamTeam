@@ -15,7 +15,8 @@ const Body = () => {
           <p style={styles.position}>Software engineer</p>
         </div>
       </div>
-       <div style={styles.card}>
+
+      <div style={styles.card}>
         <img
           src={"/zdarovamoskali.png"}
           alt="Andriy Dutkevych"
@@ -24,6 +25,8 @@ const Body = () => {
         <div style={styles.textContainer}>
           <h2 style={styles.name}>Andriy Dutkevych</h2>
           <p style={styles.position}>Software Architect</p>
+        </div>
+      </div>
 
       <div style={styles.card}>
         <img
@@ -37,7 +40,7 @@ const Body = () => {
         </div>
       </div>
 
-            <div style={styles.card}>
+      <div style={styles.card}>
         <img
           src={"/5251671850054519828.jpg"}
           alt="bebra"
