@@ -11,7 +11,7 @@ const Body = () => {
         />
         <div style={styles.textContainer}>
           <h2 style={styles.name}>Ostap Haladii</h2>
-          <p style={styles.position}>дуже добрий Software engineer</p>
+          <p style={styles.position}>Software engineer</p>
         </div>
       </div>
 
@@ -43,7 +43,7 @@ const Body = () => {
         <img src={"/image.png"} alt="bebra" style={styles.photo} />
         <div style={styles.textContainer}>
           <h2 style={styles.name}>Ivan Ihnatenko</h2>
-          <p style={styles.position}>Software Engineer</p>
+          <p style={styles.position}>Software Engineer великий</p>
         </div>
       </div>
     </main>
