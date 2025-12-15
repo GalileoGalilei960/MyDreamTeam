@@ -6,12 +6,12 @@ const Body = () => {
       <div style={styles.card}>
         <img
           src={"/sony-monkey.jpg"}
-          alt="Ostap Haladii - харош"
+          alt="Ostap Haladii"
           style={styles.photo}
         />
         <div style={styles.textContainer}>
           <h2 style={styles.name}>Ostap Haladii</h2>
-          <p style={styles.position}>Software engineer</p>
+          <p style={styles.position}>дуже добрий Software engineer</p>
         </div>
       </div>
 
