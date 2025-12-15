@@ -34,7 +34,7 @@ const Body = () => {
           style={styles.photo}
         />
         <div style={styles.textContainer}>
-          <h2 style={styles.name}>Olena Danchenko</h2>
+          <h2 style={styles.name}>Olena Danchenko :3</h2>
           <p style={styles.position}>Project Manager</p>
         </div>
       </div>
