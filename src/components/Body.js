@@ -43,7 +43,7 @@ const Body = () => {
         <img src={"/image.png"} alt="bebra" style={styles.photo} />
         <div style={styles.textContainer}>
           <h2 style={styles.name}>Ivan Ihnatenko</h2>
-          <p style={styles.position}>Software Engineer великий</p>
+          <p style={styles.position}>Software Engineer великий test</p>
         </div>
       </div>
     </main>
